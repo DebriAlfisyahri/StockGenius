@@ -1,0 +1,5 @@
+{
+  "name": "StockGenius Extension",
+  "description": "A comprehensive tool simulating a Chrome Extension workflow for AI stock photography. Features bulk prompt generation, automatic image creation, and Adobe Stock metadata optimization using Google Gemini.",
+  "requestFramePermissions": []
+}
